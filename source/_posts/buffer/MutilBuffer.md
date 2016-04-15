@@ -1,5 +1,6 @@
 ---
 title: 生成多重缓冲区
+date: 2016-04-14
 ---
 
 ### ![](/iDesktop-Cross/images/read.gif)使用说明
